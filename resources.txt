@@ -1,0 +1,55 @@
+cd backend
+npm init
+
+cd create-react-app movies
+
+folders:
+ (1) backend
+ (2) movies (frontend)
+
+BACKEND -
+Installation:
+
+cd backend
+npm init
+npm install
+npm i cors
+npm i express
+npm install nodemon
+npm i react-router-dom
+npm i mongodb
+npm i mongoose
+npm i mongosh
+npm i dotenv
+npm i -D nodemon
+npm i bcrypt
+npm i jsonwebtoken
+npm i global
+npm install bcryptjs
+npm i node-gyp
+npm install npm-install-global
+npm i json
+
+Database mongodb:
+Username : KrishtiDas
+
+Opening: 
+nodemon app.json
+
+MOVIES -
+Installation :
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+npm install @mui/x-date-pickers
+npm i @reduxjs/toolkit
+npm i axios
+npm i dayjs
+npm i react-redux
+npm i react-router-dom
+npm i redux
+
+Opening:
+cd movies
+npm start
+
